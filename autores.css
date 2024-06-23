@@ -6,6 +6,8 @@
 
 }
 
+
+
 .sidebar {
     background-color: #ba4d95;
     max-width: 332px;
@@ -22,12 +24,26 @@
     padding-top: 12px;
     color: black;
     text-decoration: none;
+    max-height: 1024px;
+
+
+}
+
+.sidebar input{
+ 
+ display: flex;
+ margin-left: 26px;
+ margin-right: 57px;
+ width: 249px;
+ height: 35px;
+ border-radius: 5px;
+ 
 
 }
 
 
 .sidebar h1 {
-    margin-left: 260px;
+    margin-left: 332px;
     color: white;
     background-color: black;
     width: 334px;
@@ -57,10 +73,6 @@
 
 }
 
- 
-
-
-
 .search {
     display: flex;
     margin-left: 884px;
@@ -68,6 +80,8 @@
     float: right;
     border-radius: 30px;
 }
+
+
 
 body {
     background-color: #864896;
@@ -78,17 +92,21 @@ body {
     display: flex;
     align-items: center;
     column-gap: 96px;
-    margin-left: 421px;
-    padding-top: 183px;
+    margin-left: 521px;
+    padding-top: 163px;
     max-width: 226px;
     max-height: 333px;
-    margin-bottom: 96px;
+    padding-top: 300px;
+    margin-bottom: 35px;
+    flex-wrap: nowrap;
+    
    
 }
 
 
 .article a{
 
+margin-top: 25px;
 text-decoration: none;
 text-align: center;
 color: white;
@@ -101,11 +119,13 @@ color: white;
     display: flex;
     align-items: center;
     margin-left: 421px;
+    margin-right: 126px;
     column-gap: 108px;
     padding-top: 613px;
     max-width: 226px;
     max-height: 333px;
     display: block;
+    
 
 }
 

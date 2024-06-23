@@ -4,5 +4,18 @@
     box-sizing: border-box;
 }
 
+.coluna1{
+
+display: flex;
+margin-left: 69px;
+margin-top: 225px;
+}
 
 
+.coluna2{
+
+display: flex;
+margin-left: 69px;
+margin-top: 177px;
+
+}
