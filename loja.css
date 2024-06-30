@@ -8,6 +8,7 @@
 
 display: flex;
 margin-left: 69px;
+margin-right: 1114px;
 margin-top: 225px;
 }
 
@@ -16,6 +17,14 @@ margin-top: 225px;
 
 display: flex;
 margin-left: 69px;
+margin-right: 1114px;
 margin-top: 177px;
 
+}
+
+.qty{
+    display: flex;
+    align-items: center;
+    
+    
 }

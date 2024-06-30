@@ -37,7 +37,7 @@
  width: 249px;
  height: 35px;
  border-radius: 5px;
- 
+ flex-direction: column;
 
 }
 
@@ -55,7 +55,7 @@
 }
 
 .sidebar a {
-
+    display: flex;
     display: block;
     /* background-color: aqua; */
     width: 100%;
@@ -72,6 +72,7 @@
     background-color: white;
 
 }
+
 
 .search {
     display: flex;
@@ -130,13 +131,15 @@ color: white;
 }
 
 
-.lupinha {
+.find a{
 
     display: flex;
-    margin-left: 1211px;
-    margin-right: 203px;
     width: 26px;
     height: 26px;
+}
 
-
+.find{
+    display: flex;
+    flex-direction: row;
+    margin-right: 1124px;
 }
