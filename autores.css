@@ -19,7 +19,6 @@
     flex-direction: column;
     float: left;
     margin-bottom: 31px;
-    margin-top: 0%;
     /* padding-left: 60px; */
     padding-top: 12px;
     color: black;
@@ -27,6 +26,14 @@
     max-height: 1024px;
 
 
+}
+
+.retrono{
+    display: flex;
+    color: white;
+    margin-left: 29px;
+    margin-right: 269px;
+    
 }
 
 .sidebar input{
@@ -42,12 +49,12 @@
 }
 
 
-.sidebar h1 {
+h1 {
     margin-left: 332px;
     color: white;
     background-color: black;
-    width: 334px;
     margin-top: 19px;
+    width: 334px;
     height: 77px;
     padding-top: 19px;
     padding-left: 105px;
@@ -103,6 +110,8 @@ body {
     
    
 }
+
+
 
 
 .article a{

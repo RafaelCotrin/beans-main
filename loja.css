@@ -8,13 +8,12 @@
 
 display: flex;
 margin-left: 69px;
-margin-right: 1114px;
+margin-right: 132px;
 margin-top: 225px;
 }
 
 
 .coluna2{
-
 display: flex;
 margin-left: 69px;
 margin-right: 1114px;
@@ -27,4 +26,19 @@ margin-top: 177px;
     align-items: center;
     
     
+}
+
+body{
+ background-image: url(/img/background-loja.png);
+ background-size: cover;
+
+}
+
+.input{
+    display: flex;
+    height: 52px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 600px;
+    margin-top: 35px;
 }

@@ -14,7 +14,7 @@ body {
     color: white;
     justify-content: space-between;
     font-size: x-large;
-    height: 200px;
+    height: 100px;
 
 }
 
@@ -37,7 +37,7 @@ body {
     display:flex;
     background-color: #ba4d95;
     height: 173;
-    width: 1448px;
+    width: 100;
     margin-bottom: 600px;
     color: white;
     font-size: 35px;
@@ -66,4 +66,9 @@ header{
 
     width: 783px;
     height: 97px;
+}
+
+.logo{
+    display: flex;
+    margin-left: 124px;
 }
