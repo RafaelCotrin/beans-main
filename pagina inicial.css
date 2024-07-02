@@ -48,13 +48,16 @@ body {
 
 .findebutton{
  
-    margin-left: 500px;
+display: flex;
+width: 66px;
+height: 66px;
 
 }
 
 header{
     
     margin-right: 110px;
+    margin-bottom: 35px;
 }
 
 .beans{
@@ -63,13 +66,19 @@ header{
     margin-bottom: 47px;
 }
 
-.input{
-
+input{
+    
+    margin-top: 35px;
     width: 783px;
     height: 97px;
+    font-size:xx-large;
 }
 
 .logo{
     display: flex;
     margin-left: 124px;
+}
+
+.lupa{
+    margin-left: 980px;
 }
