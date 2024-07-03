@@ -7,7 +7,7 @@
 .sidebar {
     background-color: #ba4d95;
     max-width: 332px;
-    height: 100;
+    height: 100vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
